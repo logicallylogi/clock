@@ -1,6 +1,6 @@
-# App Template
-[Description]
-`Hosted at https://logically.cc/[stub]`
+# Clock
+A simple clock application
+`Hosted at https://logically.cc/clock`
 
 **Note that this source is uncoupled from the components required to run it standalone**
 
